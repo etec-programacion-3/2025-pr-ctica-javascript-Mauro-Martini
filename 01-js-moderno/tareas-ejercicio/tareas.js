@@ -2,7 +2,6 @@
 // Provee funciones para obtener, agregar y eliminar tareas usando localStorage
 
 const STORAGE_KEY = 'tasks'; // Clave para localStorage
-
 // Devuelve la lista de tareas almacenadas
 export function getTasks() {
   return JSON.parse(localStorage.getItem(STORAGE_KEY)) || [];
