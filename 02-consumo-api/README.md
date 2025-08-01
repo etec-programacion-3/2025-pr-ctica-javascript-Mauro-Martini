@@ -1,3 +1,6 @@
+Para poder resolver este ejercicio lo encadene a el backend que proporcionaste por slack ayer igualando el puerto, use el Axios para poder resolver este ejercicio, lo complete en main.js en lugar de en ejercicio.js
+
+
 # 02 - Consumo de APIs REST
 
 ## ¿Qué vas a encontrar aquí?
