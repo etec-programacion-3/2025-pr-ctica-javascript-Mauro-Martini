@@ -1,3 +1,5 @@
+En este ejercicio empeze a utilizar Live Server ya que funciona correctamente para el testeo de los ejercicios
+
 # 03 - Manipulación del DOM y Eventos
 
 ## ¿Qué vas a encontrar aquí?
